@@ -9,7 +9,7 @@
 | 6 Afro Bank FM (queue/05-radio-06-afrobank) | 23f95953-3ffc-4987-84d1-7d90db8d8774 | 583dbb91 | 23.11. 19:57 |
 | 7 CircoLoco (queue/06-radio-07-circoloco) | b5146884-b88b-4966-813a-e2f733f87b2d | 39a2dac9 | 24.11. 12:57 |
 
-# TikTok-Entwürfe (vidIQ, Konto _000ejh3OGTgMfOV8PtQByN_q5R4SnQb95t0) – Nutzer-Einstellungen: öffentlich, Kommentare an, Musikbestätigung akzeptiert
+# TikTok – alle 7 am 21.11. vom Nutzer freigegeben und veröffentlicht/eingeplant (vidIQ, Konto _000ejh3OGTgMfOV8PtQByN_q5R4SnQb95t0) – Nutzer-Einstellungen: öffentlich, Kommentare an, Musikbestätigung akzeptiert
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 1 Flash FM | cdb31b6d-6257-4c66-88d3-02d9e696f989 | c3de9f0d | sofort |
