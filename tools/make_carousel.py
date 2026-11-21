@@ -57,4 +57,7 @@ for i,s in enumerate(cfg["slides"]):
         for ln in lines: d.text((90,y),ln,font=REG(44),fill=(25,25,35)); y+=60
     d.text((60,H-50),cfg.get("footer","Fan-Content · nicht mit Rockstar Games verbunden"),font=REG(24),fill=(255,255,255,170))
     d.text((W-60,H-50),f"{i+1}/{n}",font=BOLD(28),fill=(255,255,255,200),anchor="ra")
+    lp=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","assets","brand","logo_round.png")
+    if os.path.exists(lp):
+        lg=Image.open(lp).resize((110,110)); im.paste(lg,(W-60-110,60),lg)
     im.save(f"{out}/{i+1}.jpg",quality=90)

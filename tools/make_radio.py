@@ -5,6 +5,8 @@ W,H,FPS=1080,1920,30
 F="/usr/share/fonts/opentype/inter/"
 BLK=lambda s:ImageFont.truetype(F+"InterDisplay-Black.otf",s); BOLD=lambda s:ImageFont.truetype(F+"InterDisplay-Bold.otf",s); REG=lambda s:ImageFont.truetype(F+"Inter-Regular.otf",s)
 acc=tuple(cfg["color"])
+_lp=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","assets","brand","logo_round.png")
+LOGO=Image.open(_lp).resize((110,110)) if os.path.exists(_lp) else None
 src=Image.open(cfg["bg"]).convert("RGB")
 # crop to 9:16 around focus x
 sw,sh=src.size; cw=int(sh*9/16); cx=int(sw*cfg.get("focus",0.5)); x0=max(0,min(sw-cw,cx-cw//2))
@@ -53,6 +55,7 @@ for n in range(N):
         d.rounded_rectangle([50,80,W-50,260],radius=40,fill=acc+(int(255*p),))
         d.text((W//2,170),cfg["cta"],font=BLK(50),fill=(255,255,255,int(255*p)),anchor="mm")
     d.text((W//2,H-60),"Fan-Content · Quelle: Rockstar Games / Community-Liste",font=REG(28),fill=(255,255,255,170),anchor="mm")
+    if LOGO is not None: im.paste(LOGO,(W-60-110,1920-60-150),LOGO)
     im.save(f"{fr}/{n:04d}.jpg",quality=88)
 subprocess.run(["ffmpeg","-v","error","-y","-framerate",str(FPS),"-i",f"{fr}/%04d.jpg","-f","lavfi","-i","anullsrc=r=44100:cl=stereo","-shortest","-c:v","libx264","-preset","veryfast","-crf","20","-pix_fmt","yuv420p","-c:a","aac","-movflags","+faststart",out],check=True)
 shutil.rmtree(fr)

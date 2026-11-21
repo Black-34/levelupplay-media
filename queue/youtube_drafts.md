@@ -8,3 +8,14 @@
 | 5 Cocoteo (queue/04-radio-05-cocoteo) | 8313baa4-792e-4078-b741-fb8b216b31cb | d534eccd | 23.11. 12:57 |
 | 6 Afro Bank FM (queue/05-radio-06-afrobank) | 23f95953-3ffc-4987-84d1-7d90db8d8774 | 583dbb91 | 23.11. 19:57 |
 | 7 CircoLoco (queue/06-radio-07-circoloco) | b5146884-b88b-4966-813a-e2f733f87b2d | 39a2dac9 | 24.11. 12:57 |
+
+# TikTok-Entwürfe (vidIQ, Konto _000ejh3OGTgMfOV8PtQByN_q5R4SnQb95t0) – Nutzer-Einstellungen: öffentlich, Kommentare an, Musikbestätigung akzeptiert
+| Teil | postId | revision | geplant |
+|---|---|---|---|
+| 1 Flash FM | cdb31b6d-6257-4c66-88d3-02d9e696f989 | c3de9f0d | sofort |
+| 2 Chamber (queue/01-radio-02-chamber) | 45f517e4-344e-41f7-a3b5-a8fbf06d31e8 | c0f630d9 | 21.11. 21:15 |
+| 3 Country (queue/02-radio-03-country) | e37fa105-a329-41ee-916f-c0805011cc93 | a1235583 | 22.11. 13:15 |
+| 4 Dirty South (queue/03-radio-04-dirtysouth) | 67e3e049-4555-49e2-b9ee-e9cdae90c59d | e48e4eb3 | 22.11. 20:15 |
+| 5 Cocoteo (queue/04-radio-05-cocoteo) | 9c9cbdd4-bd3a-46dc-84fa-87b23ee59df1 | a8d259e0 | 23.11. 13:15 |
+| 6 Afro Bank (queue/05-radio-06-afrobank) | d84639ac-d50d-4a3d-b586-932fefdc6552 | 94baf711 | 23.11. 20:15 |
+| 7 CircoLoco (queue/06-radio-07-circoloco) | d44eec0e-3561-4d48-ac75-e3ebf44ad1a8 | 4d93acb3 | 24.11. 13:15 |
