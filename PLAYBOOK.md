@@ -77,3 +77,4 @@ YouTube: youtube.com/@levelupplay2026
 TikTok: tiktok.com/@levelupplay2026
 Instagram: instagram.com/levelupplay2026
 Bei YouTube die Links mit https:// schreiben (dort klickbar). Im Reel-Abspann/letzten Karussell-Bild "@levelupplay2026 auf YouTube, TikTok & Instagram" einblenden.
+- Offen: YouTube-Shorts Radio Teil 2-7 wurden vor dieser Regel erstellt. Sobald sie öffentlich sind, Beschreibung mit vidiq_update_video um den Verlinkungs-Block ergänzen (Teil 1 ist erledigt). Danach diese Zeile löschen.
