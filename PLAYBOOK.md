@@ -50,3 +50,17 @@ Wenn die Warteschlange nur Reels hat, ist das in Ordnung; Karussells bei Nachsch
 
 ### Hashtags
 12-15 pro Beitrag: 4 große (#gta6 #gtavi #gaming #gamer), 5 mittlere (#gta6radio #vicecity #gta6music #gamingdeutschland #ps5), 4 spezielle zum Thema.
+
+## Guide-Themen (was Spieler gerade suchen) – nach und nach umsetzen
+Jedes Thema vorher mit Firecrawl recherchieren (mind. 2 seriöse Quellen: IGN-Wiki, gtabase, Red Bull, Polygon, G2A, Insider Gaming). Quellen im Footer nennen. Werkzeug: tools/make_carousel.py (Karussell) oder tools/make_radio.py-Stil für Reels.
+- [x] Polizei loswerden (queue/07)  - [x] Schnell Geld je Kapitel (queue/08)
+- [ ] Wo kann man was ausrauben – Karte mit Überfall-Orten (eigene Karte zeichnen, keine Rockstar-Karte kopieren)
+- [ ] Wo kauft man Masken / Kleidung für Überfälle
+- [ ] Die schnellsten Autos (Top 10)
+- [ ] In welchen Autos kann man Sachen lagern (Kofferraum, Ersatz-Outfit, Waffen)
+- [ ] Outfit-Tipps (Tarnung, Heat senken, beste Looks)
+- [ ] Erste 10 Dinge, die du tun solltest
+- [ ] Geheime Geld-Verstecke (nur belegte, ohne Story-Spoiler)
+- [ ] Beste Waffen und wo man sie bekommt
+- [ ] Fehler, die Anfänger machen
+Keine Story-Spoiler (Ende, Wendungen, wer stirbt).
