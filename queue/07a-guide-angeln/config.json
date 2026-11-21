@@ -1,0 +1,61 @@
+{
+"bg": "../../assets/rockstar/shots/gta6_12_Cal_Hampton_03.jpg",
+"color": [
+30,
+170,
+220
+],
+"kicker": "GTA 6 GUIDE",
+"footer": "Fan-Content · Quellen: gtabase, IGN, MetaForge",
+"slides": [
+{
+"kind": "cover",
+"title": "Angeln in GTA 6",
+"sub": "So fängst du alle 35 Fische",
+"focus": 0.5
+},
+{
+"num": "1",
+"title": "Rute gratis holen",
+"text": "Kaufen musst du keine: Eine Angel liegt auf dem Steg hinter Jasons Haus in Key Lento. Auch auf Booten und Stegen findest du welche.",
+"bg": "../../assets/rockstar/shots/gta6_03_Jason_Duval_02.jpg"
+},
+{
+"num": "2",
+"title": "Fische finden",
+"text": "L3 + R3 drücken (Fokus). Weiße Flecken auf dem Wasser zeigen, wo Fische sind. Auf dem Boot vorher Anker werfen.",
+"bg": "../../assets/rockstar/shots/gta6_09_desktop.jpg"
+},
+{
+"num": "3",
+"title": "Auswerfen & anschlagen",
+"text": "L2 halten, R2 halten und loslassen. Je länger du ziehst, desto weiter fliegt der Köder. Beim Biss R2 drücken.",
+"bg": "../../assets/rockstar/shots/gta6_02_Jason_Duval_01.jpg"
+},
+{
+"num": "4",
+"title": "Erst müde machen",
+"text": "Linken Stick gegen die Zugrichtung drücken. Erst einholen (rechten Stick drehen), wenn der Fisch nicht mehr kämpft – sonst reißt die Schnur.",
+"bg": "../../assets/rockstar/shots/gta6_04_Jason_Duval_06.jpg"
+},
+{
+"num": "5",
+"title": "Die richtigen Köder",
+"text": "Klein (Süß- & Salzwasser): hast du schon\nMittel Süßwasser: ca. 45 $\nMittel Salzwasser: ca. 56 $\nGroß Salzwasser: ca. 125 $\nZu kaufen bei Chuck's Tackle & Shot (Key Lento) und Ammu-Nation mit Fisch-Symbol.",
+"bg": "../../assets/rockstar/shots/gta6_20_desktop.jpg"
+},
+{
+"num": "6",
+"title": "Lohnt sich das?",
+"text": "Fische kannst du nicht verkaufen – du lässt sie wieder frei. Dafür steigt dein Fokus dauerhaft, und Angeln zählt für 100 %.",
+"bg": "../../assets/rockstar/shots/gta6_07_Lucia_Caminos_05.jpg"
+},
+{
+"kind": "cta",
+"title": "Speichern für deinen nächsten Angeltrip",
+"text": "Welchen Fisch hast du schon gefangen? Teil 2: Welcher Köder für welchen Fisch.",
+"bg": "../../assets/rockstar/shots/gta6_11_Cal_Hampton_02.jpg",
+"button": "@levelupplay2026 – YouTube, TikTok & IG"
+}
+]
+}

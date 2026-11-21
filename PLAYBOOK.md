@@ -63,6 +63,8 @@ Jedes Thema vorher mit Firecrawl recherchieren (mind. 2 seriöse Quellen: IGN-Wi
 - [ ] Geheime Geld-Verstecke (nur belegte, ohne Story-Spoiler)
 - [ ] Beste Waffen und wo man sie bekommt
 - [ ] Fehler, die Anfänger machen
+- [x] Angeln: Grundlagen (queue/07a) und Köder je Fisch (queue/07b) – Recherche in assets/research_angeln.md
+- [ ] Angeln weiter (Idee vom Nutzer): Reels je Gewässer/Region mit eigener Karte ("Diese 5 Fische fängst du am Steg"), Cal-Aufgabe Parrotfish > 2 lbs, Candy-Cane-Köder finden, Angel-Trophäen; YouTube-Video "Alle 35 Fische" sobald eigenes PS5-Gameplay (assets/gameplay/) da ist
 Keine Story-Spoiler (Ende, Wendungen, wer stirbt).
 
 ## Marke
