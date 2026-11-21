@@ -30,6 +30,8 @@ for n in range(N):
     d.text((70,190),"Welche Songs laufen hier?",font=BOLD(54),fill=(255,255,255,int(255*a)))
     la=ease((t-0.3)/0.6); lg=logo.copy(); 
     if la<1: lg.putalpha(lg.getchannel("A").point(lambda p:int(p*la)))
+    if cfg.get('plate') and la>0:
+        px=(W-lg.width)//2; py=300+int(30*(1-la)); d.rounded_rectangle([px-30,py-20,px+lg.width+30,py+lg.height+20],radius=36,fill=(255,255,255,int(225*la)))
     im.paste(lg,((W-lg.width)//2,300+int(30*(1-la))),lg)
     y0=300+logo.height+40
     d.text((W//2,y0),cfg["genre"],font=BOLD(42),fill=(255,255,255,220),anchor="ma")
