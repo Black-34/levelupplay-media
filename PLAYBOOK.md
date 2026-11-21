@@ -66,6 +66,6 @@ Jedes Thema vorher mit Firecrawl recherchieren (mind. 2 seriöse Quellen: IGN-Wi
 Keine Story-Spoiler (Ende, Wendungen, wer stirbt).
 
 ## Marke
-- Logo: assets/brand/logo_round.png (rund, freigestellt). Die Werkzeuge setzen es automatisch klein in jede Grafik/jedes Video.
+- Logo: assets/brand/logo_original.jpg, rund: logo_round.png. Wasserzeichen: assets/brand/watermark.png (freigestellt) – die Werkzeuge setzen es automatisch klein oben rechts (Karussell) bzw. unten rechts (Reel).
 - Farben aus dem Logo: Neon-Blau #3aa0ff, Violett #9b5cff auf Schwarz.
 - TikTok (vidIQ, Konto _000ejh3OGTgMfOV8PtQByN_q5R4SnQb95t0): Einstellungen vom Nutzer festgelegt – öffentlich, Kommentare an, Musikbestätigung akzeptiert. Videos wie bei YouTube als Entwurf anlegen (gleiches Ja nötig).

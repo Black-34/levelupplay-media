@@ -5,8 +5,8 @@ W,H,FPS=1080,1920,30
 F="/usr/share/fonts/opentype/inter/"
 BLK=lambda s:ImageFont.truetype(F+"InterDisplay-Black.otf",s); BOLD=lambda s:ImageFont.truetype(F+"InterDisplay-Bold.otf",s); REG=lambda s:ImageFont.truetype(F+"Inter-Regular.otf",s)
 acc=tuple(cfg["color"])
-_lp=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","assets","brand","logo_round.png")
-LOGO=Image.open(_lp).resize((110,110)) if os.path.exists(_lp) else None
+_lp=os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","assets","brand","watermark.png")
+LOGO=Image.open(_lp).resize((130,130)) if os.path.exists(_lp) else None
 src=Image.open(cfg["bg"]).convert("RGB")
 # crop to 9:16 around focus x
 sw,sh=src.size; cw=int(sh*9/16); cx=int(sw*cfg.get("focus",0.5)); x0=max(0,min(sw-cw,cx-cw//2))
