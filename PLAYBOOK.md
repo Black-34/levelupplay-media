@@ -69,3 +69,11 @@ Keine Story-Spoiler (Ende, Wendungen, wer stirbt).
 - Logo: assets/brand/logo_original.jpg, rund: logo_round.png. Wasserzeichen: assets/brand/watermark.png (freigestellt) – die Werkzeuge setzen es automatisch klein oben rechts (Karussell) bzw. unten rechts (Reel).
 - Farben aus dem Logo: Neon-Blau #3aa0ff, Violett #9b5cff auf Schwarz.
 - TikTok (vidIQ, Konto _000ejh3OGTgMfOV8PtQByN_q5R4SnQb95t0): Einstellungen vom Nutzer festgelegt – öffentlich, Kommentare an, Musikbestätigung akzeptiert. Videos wie bei YouTube als Entwurf anlegen (gleiches Ja nötig).
+
+## Verlinkung (immer!)
+Jede Caption/Beschreibung auf jeder Plattform endet vor den Hashtags mit:
+📲 Alle LevelUp-Kanäle:
+YouTube: youtube.com/@levelupplay2026
+TikTok: tiktok.com/@levelupplay2026
+Instagram: instagram.com/levelupplay2026
+Bei YouTube die Links mit https:// schreiben (dort klickbar). Im Reel-Abspann/letzten Karussell-Bild "@levelupplay2026 auf YouTube, TikTok & Instagram" einblenden.
