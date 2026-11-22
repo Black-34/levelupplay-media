@@ -22,7 +22,7 @@ Ziel: in 30 Tagen die ersten 1.000 Follower auf Instagram, dann Reichweite auf Y
 
 ### Tagesplan Instagram (4 Durchläufe: 10:47, 14:47, 18:47, 21:47)
 - 10:47 Reel aus einer Serie (Radio, Figuren, Regionen)
-- 14:47 Karussell zum Speichern (Listen, Tipps, "Alle X in GTA 6") – Karussells werden oft gespeichert und geteilt
+- 14:47 Reel (Karussells pausiert bis 300 Follower – Auswertung 22.11.: Karussells erreichten nur 2-3 Konten). Fertige Karussell-Ordner überspringen, bis die Grenze erreicht ist.
 - 18:47 Reel mit dem stärksten Thema des Tages (bester Hook)
 - 21:47 Reel als Trial Reel (create_video_post mit trial_params graduation_strategy SS_PERFORMANCE): erreicht nur Nicht-Follower, geht bei guten Werten automatisch an Follower
 Wenn die Warteschlange nur Reels hat, ist das in Ordnung; Karussells bei Nachschub mit einplanen.
@@ -80,3 +80,10 @@ TikTok: tiktok.com/@levelupplay2026
 Instagram: instagram.com/levelupplay2026
 Bei YouTube die Links mit https:// schreiben (dort klickbar). Im Reel-Abspann/letzten Karussell-Bild "@levelupplay2026 auf YouTube, TikTok & Instagram" einblenden.
 - Offen: YouTube-Shorts Radio Teil 2-7 wurden vor dieser Regel erstellt. Sobald sie öffentlich sind, Beschreibung mit vidiq_update_video um den Verlinkungs-Block ergänzen (Teil 1 ist erledigt). Danach diese Zeile löschen.
+
+## Hook-Regeln (ab 22.11., nach Auswertung: 63-69 % wischen in 3 s weg)
+- Erstes Bild = Bewegung oder Action, nie ein statischer Titel. Gameplay-Clips des Nutzers (queue/clips) haben immer Vorrang vor Grafik-Reels.
+- Text in Sekunde 0: max. 6 Wörter, provokant/neugierig ("Niemand weiß, dass das geht", "Das ist illegal gut").
+- Länge 7-12 s, Ende geht nahtlos in den Anfang über (Loop).
+- Radio-Reels: ersten Song + Szene sofort zeigen, keinen Vorspann.
+- Jede Woche testen: 2 Hook-Varianten desselben Clips (eine als Trial Reel).
