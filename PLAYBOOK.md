@@ -51,6 +51,11 @@ Wenn die Warteschlange nur Reels hat, ist das in Ordnung; Karussells bei Nachsch
 ### Hashtags
 12-15 pro Beitrag: 4 große (#gta6 #gtavi #gaming #gamer), 5 mittlere (#gta6radio #vicecity #gta6music #gamingdeutschland #ps5), 4 spezielle zum Thema.
 
+## Material vom Nutzer
+- Gameplay-Videos und Fotos: Ordner LevelUp auf dem Desktop des Nutzers (videos/, fotos/); Fotos liegen auch in assets/fotos_nutzer (Liste in README dort). Vom Nutzer gelieferte Karten/Screenshots verwenden, nicht selbst nachzeichnen.
+- Aktueller Suchtrend (Nutzer, 22.11.): Mandy – viele suchen nach ihr. Mandy-Reel/Steckbrief einplanen (Titelbild: mandy_portrait.webp).
+- Videos: Originalton behalten, wenn er zur Pointe gehört (Hupe, Dialoge); deutsche Spieluntertitel mit englischen überdecken; Szene bis zum Ende zeigen, nicht mitten in der Action abschneiden. Hook-Text muss genau zur Szene passen.
+
 ## Guide-Themen (was Spieler gerade suchen) – nach und nach umsetzen
 Jedes Thema vorher mit Firecrawl recherchieren (mind. 2 seriöse Quellen: IGN-Wiki, gtabase, Red Bull, Polygon, G2A, Insider Gaming). Quellen im Footer nennen. Werkzeug: tools/make_carousel.py (Karussell) oder tools/make_radio.py-Stil für Reels.
 - [x] Polizei loswerden (queue/07)  - [x] Schnell Geld je Kapitel (queue/08)
