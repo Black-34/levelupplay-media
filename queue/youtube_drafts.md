@@ -25,3 +25,5 @@
 |---|---|---|
 | Bigfoot v2 (queue/13-clip-bigfoot) | bae3d476-69a1-44f2-b545-3ebd0d5e068f | f2cf1e6f |
 | Polizei v2 (queue/14-clip-polizei) | 0ff51aa6-6823-49b0-af0b-d799db4189d7 | 1a238606 |
+TikTok (22.11. gepostet): Bigfoot v2 https://www.tiktok.com/@levelupplay2026/video/7711076429705841940 · Polizei v2 https://www.tiktok.com/@levelupplay2026/video/7711076450345962773
+Hinweis: Windsor kann auf Instagram nicht löschen (fehlende Berechtigung instagram_manage_contents) – Konto mit „Connect with Facebook instead“ neu verbinden.
