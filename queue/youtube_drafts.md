@@ -23,5 +23,5 @@
 # Gameplay-Clips (22.11.) – YouTube-Shorts-Entwürfe, öffentlich, warten auf Ja des Nutzers
 | Clip | postId | revision |
 |---|---|---|
-| Bigfoot (queue/13-clip-bigfoot) | bae3d476-69a1-44f2-b545-3ebd0d5e068f | d0d1de24 |
-| Polizei (queue/14-clip-polizei) | 0ff51aa6-6823-49b0-af0b-d799db4189d7 | 66bc7117 |
+| Bigfoot v2 (queue/13-clip-bigfoot) | bae3d476-69a1-44f2-b545-3ebd0d5e068f | f2cf1e6f |
+| Polizei v2 (queue/14-clip-polizei) | 0ff51aa6-6823-49b0-af0b-d799db4189d7 | 1a238606 |
