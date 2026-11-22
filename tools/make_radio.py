@@ -29,7 +29,7 @@ for n in range(N):
     # hook
     a=ease(t/0.5)
     d.text((70,110-40*(1-a)),"GTA 6 RADIO",font=BLK(64),fill=acc+(255,))
-    d.text((70,190),"Welche Songs laufen hier?",font=BOLD(54),fill=(255,255,255,int(255*a)))
+    d.text((70,190),cfg.get("hook","Welche Songs laufen hier?"),font=BOLD(54),fill=(255,255,255,int(255*a)))
     la=ease((t-0.3)/0.6); lg=logo.copy(); 
     if la<1: lg.putalpha(lg.getchannel("A").point(lambda p:int(p*la)))
     if cfg.get('plate') and la>0:
@@ -54,7 +54,7 @@ for n in range(N):
         p=ease((t-(dur-2.6))/0.4)
         d.rounded_rectangle([50,80,W-50,260],radius=40,fill=acc+(int(255*p),))
         d.text((W//2,170),cfg["cta"],font=BLK(50),fill=(255,255,255,int(255*p)),anchor="mm")
-    d.text((W//2,H-60),"Fan-Content · Quelle: Rockstar Games / Community-Liste",font=REG(28),fill=(255,255,255,170),anchor="mm")
+    d.text((W//2,H-60),cfg.get("footer","Fan-Content · Quelle: Rockstar Games / Community-Liste"),font=REG(28),fill=(255,255,255,170),anchor="mm")
     if LOGO is not None: im.paste(LOGO,(W-60-110,1920-60-150),LOGO)
     im.save(f"{fr}/{n:04d}.jpg",quality=88)
 subprocess.run(["ffmpeg","-v","error","-y","-framerate",str(FPS),"-i",f"{fr}/%04d.jpg","-f","lavfi","-i","anullsrc=r=44100:cl=stereo","-shortest","-c:v","libx264","-preset","veryfast","-crf","20","-pix_fmt","yuv420p","-c:a","aac","-movflags","+faststart",out],check=True)
