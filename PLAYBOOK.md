@@ -28,7 +28,7 @@ Ziel: in 30 Tagen die ersten 1.000 Follower auf Instagram, dann Reichweite auf Y
 Wenn die Warteschlange nur Reels hat, ist das in Ordnung; Karussells bei Nachschub mit einplanen.
 
 ### Jeder Durchlauf zusätzlich
-- Eine Story posten (create_story): Standbild aus dem gerade geposteten Beitrag, 1080x1920 JPEG, Text "Neuer Beitrag – jetzt ansehen". Story-Bilder in queue/<ordner>/story.jpg erzeugen, pushen, Raw-URL verwenden.
+- Keine automatische Story (siehe Abschnitt Stories).
 - Auf alle echten Kommentare antworten, möglichst mit Gegenfrage (bringt mehr Kommentare).
 
 ### Jeden Montag (erster Durchlauf der Woche)
@@ -87,3 +87,11 @@ Bei YouTube die Links mit https:// schreiben (dort klickbar). Im Reel-Abspann/le
 - Länge 7-12 s, Ende geht nahtlos in den Anfang über (Loop).
 - Radio-Reels: ersten Song + Szene sofort zeigen, keinen Vorspann.
 - Jede Woche testen: 2 Hook-Varianten desselben Clips (eine als Trial Reel).
+
+## Sprachen (ab 22.11., Wunsch des Nutzers)
+- Text IM Video/Bild: Englisch (versteht das größte Publikum), kurz.
+- Caption dreisprachig: erste Zeile Deutsch, dann 🇬🇧 Englisch, dann 🇹🇷 Türkisch (je 1-2 Zeilen), danach Rest + Verlinkungsblock "📲 Alle LevelUp-Kanäle / All channels / Tüm kanallar:".
+- Hashtags gemischt: #gta6 #gtavi plus 2-3 türkische (#gta6türkiye #oyun #oyuncu) und englische.
+
+## Stories (geändert 22.11.)
+Über die Schnittstelle kann eine Story weder einen Beitrag "teilen" noch einen Link-Sticker haben – Zuschauer können nicht zum Beitrag springen. Deshalb KEINE automatischen Bild-Stories mehr posten. Stattdessen in der Schlussmeldung den Nutzer erinnern: neuen Reel in der App mit "Teilen → Zu deiner Story hinzufügen" teilen (1 Tippen, dann ist er anklickbar).
