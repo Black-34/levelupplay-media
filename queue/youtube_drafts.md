@@ -19,3 +19,9 @@
 | 5 Cocoteo (queue/04-radio-05-cocoteo) | 9c9cbdd4-bd3a-46dc-84fa-87b23ee59df1 | a8d259e0 | 23.11. 13:15 |
 | 6 Afro Bank (queue/05-radio-06-afrobank) | d84639ac-d50d-4a3d-b586-932fefdc6552 | 94baf711 | 23.11. 20:15 |
 | 7 CircoLoco (queue/06-radio-07-circoloco) | d44eec0e-3561-4d48-ac75-e3ebf44ad1a8 | 4d93acb3 | 24.11. 13:15 |
+
+# Gameplay-Clips (22.11.) – YouTube-Shorts-Entwürfe, öffentlich, warten auf Ja des Nutzers
+| Clip | postId | revision |
+|---|---|---|
+| Bigfoot (queue/13-clip-bigfoot) | bae3d476-69a1-44f2-b545-3ebd0d5e068f | d0d1de24 |
+| Polizei (queue/14-clip-polizei) | 0ff51aa6-6823-49b0-af0b-d799db4189d7 | 66bc7117 |
