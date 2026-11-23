@@ -27,3 +27,8 @@
 | Polizei v2 (queue/14-clip-polizei) | 0ff51aa6-6823-49b0-af0b-d799db4189d7 | 1a238606 |
 TikTok (22.11. gepostet): Bigfoot v2 https://www.tiktok.com/@levelupplay2026/video/7711076429705841940 · Polizei v2 https://www.tiktok.com/@levelupplay2026/video/7711076450345962773
 Hinweis: Windsor kann auf Instagram nicht löschen (fehlende Berechtigung instagram_manage_contents) – Konto mit „Connect with Facebook instead“ neu verbinden.
+
+# 23.11. – YouTube-Shorts-Entwurf, öffentlich, wartet auf Ja des Nutzers
+| Teil | postId | revision | geplant |
+|---|---|---|---|
+| 8 V-Rock (queue/09-radio-08-vrock) – "GTA 6 Radio Teil 8: 10 Songs auf V-Rock 🤘 #shorts" | 8316b68c-f96a-472b-a842-945a9386c118 | 2db880f7 | 24.11. 18:57 UTC |
