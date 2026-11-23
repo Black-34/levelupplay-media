@@ -20,7 +20,7 @@
 | 6 Afro Bank (queue/05-radio-06-afrobank) | d84639ac-d50d-4a3d-b586-932fefdc6552 | 94baf711 | 23.11. 20:15 |
 | 7 CircoLoco (queue/06-radio-07-circoloco) | d44eec0e-3561-4d48-ac75-e3ebf44ad1a8 | 4d93acb3 | 24.11. 13:15 |
 
-# Gameplay-Clips (22.11.) – YouTube-Shorts-Entwürfe, öffentlich, warten auf Ja des Nutzers
+# Gameplay-Clips (22.11.) – am 23.11. vom Nutzer freigegeben und auf YouTube veröffentlicht: Bigfoot https://www.youtube.com/watch?v=X-lBHAI9oXw · Polizei https://www.youtube.com/watch?v=ClBUmNXjbxk
 | Clip | postId | revision |
 |---|---|---|
 | Bigfoot v2 (queue/13-clip-bigfoot) | bae3d476-69a1-44f2-b545-3ebd0d5e068f | f2cf1e6f |
@@ -28,7 +28,7 @@
 TikTok (22.11. gepostet): Bigfoot v2 https://www.tiktok.com/@levelupplay2026/video/7711076429705841940 · Polizei v2 https://www.tiktok.com/@levelupplay2026/video/7711076450345962773
 Hinweis: Windsor kann auf Instagram nicht löschen (fehlende Berechtigung instagram_manage_contents) – Konto mit „Connect with Facebook instead“ neu verbinden.
 
-# 23.11. – YouTube-Shorts-Entwurf, öffentlich, wartet auf Ja des Nutzers
+# 23.11. – vom Nutzer freigegeben, hochgeladen (privat bis zur geplanten Zeit): https://www.youtube.com/watch?v=_agIn_HbRII
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 8 V-Rock (queue/09-radio-08-vrock) – "GTA 6 Radio Teil 8: 10 Songs auf V-Rock 🤘 #shorts" | 8316b68c-f96a-472b-a842-945a9386c118 | 2db880f7 | 24.11. 18:57 UTC |
