@@ -32,3 +32,4 @@ Hinweis: Windsor kann auf Instagram nicht löschen (fehlende Berechtigung instag
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 8 V-Rock (queue/09-radio-08-vrock) – "GTA 6 Radio Teil 8: 10 Songs auf V-Rock 🤘 #shorts" | 8316b68c-f96a-472b-a842-945a9386c118 | 2db880f7 | 24.11. 18:57 UTC |
+YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw · Polizei v2 https://www.youtube.com/watch?v=ClBUmNXjbxk
