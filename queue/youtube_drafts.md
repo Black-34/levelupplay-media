@@ -40,3 +40,8 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | 9 Stockyard (queue/10-radio-09-stockyard) – "GTA 6 Radio Teil 9: 10 Songs auf Stockyard FM 🎧 #shorts" | 7cdcb8d5-7bd4-4668-b443-20220760a46f | efcb576b | 25.11. 13:15 MEZ |
 | 10 Honey FM (queue/11-radio-10-honey) – "GTA 6 Radio Teil 10: 10 Songs auf Honey FM 🍯 #shorts" | 4af3989b-119c-408c-aa74-6beb528165d1 | e400f810 | 26.11. 13:15 MEZ |
 | 11 Symphony FM (queue/12-radio-11-symphony) – "GTA 6 Radio Teil 11: 10 Songs auf Symphony FM 🎻 #shorts" | 5453b558-c777-4d61-88eb-5fde4ba98759 | 611c8c61 | 27.11. 13:15 MEZ |
+
+# 24.11. – Entwurf, wartet auf Ja des Nutzers
+| Teil | postId | revision | geplant |
+|---|---|---|---|
+| 12 Emotion (queue/15-radio-12-emotion) – "GTA 6 Radio Teil 12: 10 Songs auf Emotion 💗 #shorts" | 837f49ee-b5f5-439c-adc7-59eea2c4e654 | 83a5affb | 28.11. 13:15 MEZ |
