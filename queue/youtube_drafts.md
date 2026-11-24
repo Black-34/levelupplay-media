@@ -34,12 +34,12 @@ Hinweis: Windsor kann auf Instagram nicht löschen (fehlende Berechtigung instag
 | 8 V-Rock (queue/09-radio-08-vrock) – "GTA 6 Radio Teil 8: 10 Songs auf V-Rock 🤘 #shorts" | 8316b68c-f96a-472b-a842-945a9386c118 | 2db880f7 | 24.11. 18:57 UTC |
 YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw · Polizei v2 https://www.youtube.com/watch?v=ClBUmNXjbxk
 
-# 23.11. – Entwurf, wartet auf Ja des Nutzers
+# 23.11. – vom Nutzer freigegeben (Ja am 23.11.), am 24.11. hochgeladen (privat bis zur geplanten Zeit): Teil 9 https://www.youtube.com/watch?v=_2iGdPpXFJ4 · Teil 10 https://www.youtube.com/watch?v=7wzxr5KHTmg · Teil 11 https://www.youtube.com/watch?v=eKTKa8IOhWk
 | Teil | postId | revision | geplant |
 |---|---|---|---|
-| 9 Stockyard (queue/10-radio-09-stockyard) – "GTA 6 Radio Teil 9: 10 Songs auf Stockyard FM 🎧 #shorts" | 7cdcb8d5-7bd4-4668-b443-20220760a46f | efcb576b | 25.11. 13:15 MEZ |
-| 10 Honey FM (queue/11-radio-10-honey) – "GTA 6 Radio Teil 10: 10 Songs auf Honey FM 🍯 #shorts" | 4af3989b-119c-408c-aa74-6beb528165d1 | e400f810 | 26.11. 13:15 MEZ |
-| 11 Symphony FM (queue/12-radio-11-symphony) – "GTA 6 Radio Teil 11: 10 Songs auf Symphony FM 🎻 #shorts" | 5453b558-c777-4d61-88eb-5fde4ba98759 | 611c8c61 | 27.11. 13:15 MEZ |
+| 9 Stockyard (queue/10-radio-09-stockyard) – "GTA 6 Radio Teil 9: 10 Songs auf Stockyard FM 🎧 #shorts" | 7cdcb8d5-7bd4-4668-b443-20220760a46f | 2b4ff884 | 25.11. 13:15 MEZ |
+| 10 Honey FM (queue/11-radio-10-honey) – "GTA 6 Radio Teil 10: 10 Songs auf Honey FM 🍯 #shorts" | 4af3989b-119c-408c-aa74-6beb528165d1 | bde86e71 | 26.11. 13:15 MEZ |
+| 11 Symphony FM (queue/12-radio-11-symphony) – "GTA 6 Radio Teil 11: 10 Songs auf Symphony FM 🎻 #shorts" | 5453b558-c777-4d61-88eb-5fde4ba98759 | 87832b37 | 27.11. 13:15 MEZ |
 
 # 24.11. – Entwurf, wartet auf Ja des Nutzers
 | Teil | postId | revision | geplant |
