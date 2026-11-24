@@ -47,3 +47,8 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | 12 Emotion (queue/15-radio-12-emotion) – "GTA 6 Radio Teil 12: 10 Songs auf Emotion 💗 #shorts" | 837f49ee-b5f5-439c-adc7-59eea2c4e654 | 83a5affb | 28.11. 13:15 MEZ |
 | 13 La Ola (queue/16-radio-13-laola) – "GTA 6 Radio Teil 13: 10 Songs auf La Ola 💃 #shorts" | e9b7b23a-c52a-4c29-9f3a-7e18a2474120 | 8ee5504f | 29.11. 13:15 MEZ |
 | 14 Radio On-U (queue/17-radio-14-onu) – "GTA 6 Radio Teil 14: 10 Songs auf Radio On-U 🌿 #shorts" | 22e90e44-79be-45f0-888c-d9518f265b32 | 293abbce | 30.11. 13:15 MEZ |
+
+# 24.11. – Entwurf, wartet auf Ja des Nutzers
+| Teil | postId | revision | geplant |
+|---|---|---|---|
+| 15 Worldwide FM (queue/18-radio-15-worldwide) – "GTA 6 Radio Teil 15: 10 Songs auf Worldwide FM 🌍 #shorts" | 859efe1f-7185-4f5c-b802-535be5176753 | 9a72f8fd | 01.12. 13:15 MEZ |
