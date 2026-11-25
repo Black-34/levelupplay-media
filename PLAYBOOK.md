@@ -24,7 +24,7 @@ Ziel: in 30 Tagen die ersten 1.000 Follower auf Instagram, dann Reichweite auf Y
 - 10:47 Reel aus einer Serie (Radio, Figuren, Regionen)
 - 14:47 Reel (Karussells pausiert bis 300 Follower – Auswertung 22.11.: Karussells erreichten nur 2-3 Konten). Fertige Karussell-Ordner überspringen, bis die Grenze erreicht ist.
 - 18:47 Reel mit dem stärksten Thema des Tages (bester Hook)
-- 21:47 Reel als Trial Reel (create_video_post mit trial_params graduation_strategy SS_PERFORMANCE): erreicht nur Nicht-Follower, geht bei guten Werten automatisch an Follower
+- 21:47 Reel als Trial Reel (create_video_post mit trial_params graduation_strategy SS_PERFORMANCE): erreicht nur Nicht-Follower. Stand 25.11.: Instagram lehnt ab ("zu wenige Follower") → dann sofort als normalen Reel posten
 Wenn die Warteschlange nur Reels hat, ist das in Ordnung; Karussells bei Nachschub mit einplanen.
 
 ### Jeder Durchlauf zusätzlich
