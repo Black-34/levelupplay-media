@@ -1,0 +1,138 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_13_Boobie_Ike_02.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "ALL SMILES...",
+     100,
+     "w"
+    ],
+    [
+     "UNTIL BUSINESS",
+     92,
+     "b"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_13_Boobie_Ike_02.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "BOOBIE IKE",
+     110,
+     "w"
+    ],
+    [
+     "a local",
+     56,
+     "g"
+    ],
+    [
+     "VICE CITY LEGEND",
+     86,
+     "b"
+    ]
+   ],
+   "y": 1150
+  },
+  {
+   "start": 5.0,
+   "end": 7.6,
+   "img": "assets/rockstar/shots/gta6_14_Boobie_Ike_04.jpg",
+   "focus": 0.41,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     "HIS EMPIRE:",
+     90,
+     "w"
+    ],
+    [
+     "real estate",
+     64,
+     "g"
+    ],
+    [
+     "JACK OF HEARTS club",
+     70,
+     "v"
+    ],
+    [
+     "a recording studio",
+     64,
+     "g"
+    ]
+   ],
+   "y": 1150
+  },
+  {
+   "start": 7.6,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_13_Boobie_Ike_02.jpg",
+   "focus": 0.85,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     "ONLY RAW RECORDS",
+     86,
+     "b"
+    ],
+    [
+     "with Dre'Quan Priest",
+     58,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_13_Boobie_Ike_02.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.08,
+    1.0
+   ],
+   "lines": [
+    [
+     "\"IT'S ALL ABOUT",
+     72,
+     "w"
+    ],
+    [
+     "HEART\"",
+     110,
+     "v"
+    ]
+   ],
+   "y": 860
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Boss or villain?"
+ }
+}

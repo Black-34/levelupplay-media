@@ -1,0 +1,136 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_12_Cal_Hampton_03.jpg",
+   "focus": 0.47,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "HE DOESN'T",
+     100,
+     "w"
+    ],
+    [
+     "TRUST THE BIRDS",
+     92,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_11_Cal_Hampton_02.jpg",
+   "focus": 0.52,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     "CAL HAMPTON",
+     100,
+     "w"
+    ],
+    [
+     "Jason's friend &",
+     56,
+     "g"
+    ],
+    [
+     "Brian's associate",
+     70,
+     "b"
+    ]
+   ]
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_12_Cal_Hampton_03.jpg",
+   "focus": 0.47,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "SAFEST AT HOME",
+     86,
+     "w"
+    ],
+    [
+     "beers + Coast Guard",
+     56,
+     "g"
+    ],
+    [
+     "RADIO SNOOPING",
+     82,
+     "b"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_11_Cal_Hampton_02.jpg",
+   "focus": 0.52,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "\"WHAT IF EVERYTHING",
+     64,
+     "w"
+    ],
+    [
+     "ON THE INTERNET",
+     64,
+     "w"
+    ],
+    [
+     "WAS TRUE?\"",
+     88,
+     "v"
+    ]
+   ]
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_12_Cal_Hampton_03.jpg",
+   "focus": 0.47,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "PLAYED BY",
+     70,
+     "w"
+    ],
+    [
+     "BOBBY MOYNIHAN",
+     92,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Team Cal? Yes or no?"
+ }
+}
