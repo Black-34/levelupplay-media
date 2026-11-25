@@ -41,14 +41,14 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | 10 Honey FM (queue/11-radio-10-honey) – "GTA 6 Radio Teil 10: 10 Songs auf Honey FM 🍯 #shorts" | 4af3989b-119c-408c-aa74-6beb528165d1 | bde86e71 | 26.11. 13:15 MEZ |
 | 11 Symphony FM (queue/12-radio-11-symphony) – "GTA 6 Radio Teil 11: 10 Songs auf Symphony FM 🎻 #shorts" | 5453b558-c777-4d61-88eb-5fde4ba98759 | 87832b37 | 27.11. 13:15 MEZ |
 
-# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), vidIQ-Tageslimit erreicht → Veröffentlichung am 25.11. ab 09:05 MEZ (Erinnerung trig_01QBBHdavodRQJ5HD5AiiZVy)
+# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), am 25.11. hochgeladen (privat bis zur geplanten Zeit): Teil 12 https://www.youtube.com/watch?v=evcYe6t_Fjc · Teil 13 https://www.youtube.com/watch?v=1VBjz5p7wPk · Teil 14 https://www.youtube.com/watch?v=qkeHecqC7Ck
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 12 Emotion (queue/15-radio-12-emotion) – "GTA 6 Radio Teil 12: 10 Songs auf Emotion 💗 #shorts" | 837f49ee-b5f5-439c-adc7-59eea2c4e654 | 83a5affb | 28.11. 13:15 MEZ |
 | 13 La Ola (queue/16-radio-13-laola) – "GTA 6 Radio Teil 13: 10 Songs auf La Ola 💃 #shorts" | e9b7b23a-c52a-4c29-9f3a-7e18a2474120 | 8ee5504f | 29.11. 13:15 MEZ |
 | 14 Radio On-U (queue/17-radio-14-onu) – "GTA 6 Radio Teil 14: 10 Songs auf Radio On-U 🌿 #shorts" | 22e90e44-79be-45f0-888c-d9518f265b32 | 293abbce | 30.11. 13:15 MEZ |
 
-# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), vidIQ-Tageslimit erreicht; 25.11. belegt durch Teil 12-14 → Veröffentlichung am 26.11. ab 09:05 MEZ (Erinnerung trig_019CEQeYx95EBJH23b4niJ6q)
+# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), am 25.11. hochgeladen (privat bis zur geplanten Zeit): Teil 12 https://www.youtube.com/watch?v=evcYe6t_Fjc · Teil 13 https://www.youtube.com/watch?v=1VBjz5p7wPk · Teil 14 https://www.youtube.com/watch?v=qkeHecqC7Ck
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 15 Worldwide FM (queue/18-radio-15-worldwide) – "GTA 6 Radio Teil 15: 10 Songs auf Worldwide FM 🌍 #shorts" | 859efe1f-7185-4f5c-b802-535be5176753 | 9a72f8fd | 01.12. 13:15 MEZ |
