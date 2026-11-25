@@ -59,3 +59,4 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | Figur Mandy (queue/19-figur-mandy) – "Wer ist Mandy in GTA 6? 👀 Alle suchen nach ihr #shorts" | c7e00ea3-fa44-4663-b862-bc1a8c893315 | 678d4c0d | 02.12. 13:15 MEZ |
 | 16 Gloriana Blues Radio (queue/20-radio-16-gloriana) – "GTA 6 Radio Teil 16: 10 Songs auf Gloriana Blues Radio 🎸 #shorts" | cac3c74a-e871-43d0-ba51-2eb261cd2ca7 | 90a655fc | 03.12. 13:15 MEZ |
 | 17 Leonida Jazz Radio (queue/21-radio-17-leonidajazz) – "GTA 6 Radio Teil 17: 10 Songs auf Leonida Jazz Radio 🎷 #shorts" | f8e1e1a4-2388-4eae-ae0c-8058bb126727 | 1e7e0aa6 | 04.12. 13:15 MEZ |
+| 18 Vice City FM (queue/22-radio-18-vicecityfm) – "GTA 6 Radio Teil 18: 10 Songs auf Vice City FM 🌴 #shorts" | 3733887b-4a23-4daa-b47d-76eb9fd8a1bd | 3f6179bf | 05.12. 13:15 MEZ |
