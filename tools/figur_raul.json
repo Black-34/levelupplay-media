@@ -1,0 +1,137 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.6,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "HE ONLY WANTS",
+     92,
+     "w"
+    ],
+    [
+     "THE BIG SCORE",
+     100,
+     "b"
+    ]
+   ],
+   "y": 1350
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.58,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "RAUL BAUTISTA",
+     100,
+     "w"
+    ],
+    [
+     "seasoned",
+     56,
+     "g"
+    ],
+    [
+     "BANK ROBBER",
+     88,
+     "b"
+    ]
+   ]
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.62,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "CONFIDENCE",
+     86,
+     "w"
+    ],
+    [
+     "CHARM",
+     86,
+     "b"
+    ],
+    [
+     "CUNNING",
+     86,
+     "v"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.6,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "MENTOR FOR",
+     72,
+     "w"
+    ],
+    [
+     "JASON & LUCIA",
+     88,
+     "b"
+    ],
+    [
+     "small jobs -> big heists",
+     52,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.6,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "PLAYED BY",
+     70,
+     "w"
+    ],
+    [
+     "MANNY PEREZ",
+     92,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Would you join his crew?"
+ }
+}
