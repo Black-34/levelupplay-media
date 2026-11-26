@@ -1,0 +1,137 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_07_Lucia_Caminos_05.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "SHE LEARNED TO FIGHT",
+     76,
+     "w"
+    ],
+    [
+     "BEFORE SHE COULD WALK",
+     76,
+     "b"
+    ]
+   ],
+   "y": 1350
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_08_Lucia_Caminos_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "LUCIA CAMINOS",
+     100,
+     "w"
+    ],
+    [
+     "taught by",
+     56,
+     "g"
+    ],
+    [
+     "HER FATHER",
+     88,
+     "b"
+    ]
+   ]
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_10_Lucia_Caminos_04.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "DEFENDED FAMILY",
+     80,
+     "w"
+    ],
+    [
+     "LEONIDA",
+     88,
+     "b"
+    ],
+    [
+     "PENITENTIARY",
+     88,
+     "v"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_07_Lucia_Caminos_05.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "NOW SHE TAKES",
+     72,
+     "w"
+    ],
+    [
+     "CONTROL",
+     96,
+     "b"
+    ],
+    [
+     "even if rules break",
+     52,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_08_Lucia_Caminos_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "PLAYED BY",
+     70,
+     "w"
+    ],
+    [
+     "MANNI L. PEREZ",
+     92,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Lucia or Jason?"
+ }
+}

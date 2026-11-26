@@ -1,0 +1,132 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_03_Jason_Duval_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "HE JUST WANTS",
+     92,
+     "w"
+    ],
+    [
+     "A QUIET LIFE",
+     100,
+     "b"
+    ]
+   ],
+   "y": 1350
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_02_Jason_Duval_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "JASON DUVAL",
+     100,
+     "w"
+    ],
+    [
+     "grew up around",
+     56,
+     "g"
+    ],
+    [
+     "CON ARTISTS",
+     88,
+     "b"
+    ]
+   ]
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_04_Jason_Duval_06.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "EX US ARMY",
+     92,
+     "w"
+    ],
+    [
+     "no fresh start",
+     56,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_03_Jason_Duval_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "NOW WORKING FOR",
+     70,
+     "w"
+    ],
+    [
+     "DRUG RUNNERS",
+     88,
+     "b"
+    ],
+    [
+     "in the Leonida Keys",
+     52,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_02_Jason_Duval_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "PLAYED BY",
+     70,
+     "w"
+    ],
+    [
+     "DYLAN ROURKE",
+     92,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Jason or Lucia?"
+ }
+}
