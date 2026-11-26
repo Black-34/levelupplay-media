@@ -48,7 +48,7 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | 13 La Ola (queue/16-radio-13-laola) – "GTA 6 Radio Teil 13: 10 Songs auf La Ola 💃 #shorts" | e9b7b23a-c52a-4c29-9f3a-7e18a2474120 | 8ee5504f | 29.11. 13:15 MEZ |
 | 14 Radio On-U (queue/17-radio-14-onu) – "GTA 6 Radio Teil 14: 10 Songs auf Radio On-U 🌿 #shorts" | 22e90e44-79be-45f0-888c-d9518f265b32 | 293abbce | 30.11. 13:15 MEZ |
 
-# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), vidIQ-Tageslimit erreicht; 25.11. belegt durch Teil 12-14 → Veröffentlichung am 26.11. ab 09:05 MEZ (Erinnerung trig_019CEQeYx95EBJH23b4niJ6q)
+# 24.11. – vom Nutzer freigegeben (Ja am 24.11.), vidIQ-Tageslimit erreicht; 25.11. belegt durch Teil 12-14 → am 26.11. hochgeladen (privat bis zur geplanten Zeit): https://www.youtube.com/watch?v=yF_XP5N46Po
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 15 Worldwide FM (queue/18-radio-15-worldwide) – "GTA 6 Radio Teil 15: 10 Songs auf Worldwide FM 🌍 #shorts" | 859efe1f-7185-4f5c-b802-535be5176753 | 9a72f8fd | 01.12. 13:15 MEZ |
