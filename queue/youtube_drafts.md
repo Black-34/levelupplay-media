@@ -65,3 +65,4 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | Teil | postId | revision | geplant |
 |---|---|---|---|
 | 19 VCRR (queue/23-radio-19-vcrr) – "GTA 6 Radio Teil 19: 10 Songs auf VCRR 🎤 #shorts" | 17ada29b-b2e6-4ce1-86bf-fef3960bf4ff | 15ea76fa | 06.12. 13:15 MEZ |
+| 20 Kaleidoscope FM (queue/24-radio-20-kaleidoscope) – "GTA 6 Radio Teil 20: 10 Songs auf Kaleidoscope FM 🪩 #shorts" | 68ae2888-121d-4a52-9f61-661b1611cb09 | d7522530 | 07.12. 13:15 MEZ |
