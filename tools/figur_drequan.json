@@ -1,0 +1,137 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "FROM THE STREETS",
+     84,
+     "w"
+    ],
+    [
+     "TO THE LABEL",
+     100,
+     "b"
+    ]
+   ],
+   "y": 1350
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.32,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "DRE'QUAN PRIEST",
+     92,
+     "w"
+    ],
+    [
+     "more hustler",
+     56,
+     "g"
+    ],
+    [
+     "THAN GANGSTER",
+     84,
+     "b"
+    ]
+   ]
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.33,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "BOSS OF",
+     72,
+     "w"
+    ],
+    [
+     "ONLY RAW",
+     96,
+     "b"
+    ],
+    [
+     "RECORDS",
+     96,
+     "v"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "JUST SIGNED",
+     72,
+     "w"
+    ],
+    [
+     "REAL DIMEZ",
+     96,
+     "b"
+    ],
+    [
+     "next stop: Vice City",
+     52,
+     "g"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.3,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "\"YOU'RE WITH",
+     76,
+     "w"
+    ],
+    [
+     "THE LABEL NOW\"",
+     84,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Would you sign with him?"
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "ONE HIT",
+     100,
+     "w"
+    ],
+    [
+     "AWAY FROM FAME",
+     88,
+     "b"
+    ]
+   ],
+   "y": 1350
+  },
+  {
+   "start": 2.6,
+   "end": 5.0,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REAL DIMEZ",
+     100,
+     "w"
+    ],
+    [
+     "Bae-Luxe & Roxy",
+     60,
+     "g"
+    ],
+    [
+     "RAP DUO",
+     88,
+     "b"
+    ]
+   ],
+   "y": 1200
+  },
+  {
+   "start": 5.0,
+   "end": 7.4,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "FRIENDS SINCE",
+     76,
+     "w"
+    ],
+    [
+     "HIGH SCHOOL",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 7.4,
+   "end": 9.8,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "SIGNED TO",
+     72,
+     "w"
+    ],
+    [
+     "ONLY RAW",
+     96,
+     "b"
+    ],
+    [
+     "RECORDS",
+     96,
+     "v"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 9.8,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "SPICY TRACKS",
+     80,
+     "w"
+    ],
+    [
+     "+ SOCIAL MEDIA",
+     80,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.8,
+  "question": "Would you stream their album?"
+ }
+}
