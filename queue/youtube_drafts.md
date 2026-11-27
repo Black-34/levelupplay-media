@@ -68,3 +68,8 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | 20 Kaleidoscope FM (queue/24-radio-20-kaleidoscope) – "GTA 6 Radio Teil 20: 10 Songs auf Kaleidoscope FM 🪩 #shorts" | 68ae2888-121d-4a52-9f61-661b1611cb09 | d7522530 | 07.12. 13:15 MEZ |
 | Figur Cal (queue/25-figur-cal) – "Wer ist Cal Hampton in GTA 6? 🦅 Er traut nicht mal den Vögeln #shorts" | e0a4cfbf-963e-4ae7-b09d-1ff90401ebda | 32f318bb | 08.12. 13:15 MEZ |
 | Figur Boobie (queue/26-figur-boobie) – "Wer ist Boobie Ike in GTA 6? 😎 Immer am Lächeln – bis es ums Geschäft geht #shorts" | 402f006d-63c0-4cfc-b96a-3e7b0c9fe6db | f5e48f7f | 09.12. 13:15 MEZ |
+
+# 27.11. – Entwurf, wartet auf Ja des Nutzers
+| Teil | postId | revision | geplant |
+|---|---|---|---|
+| Figur Raul (queue/27-figur-raul) – "Wer ist Raul Bautista in GTA 6? 💰 Er will nur den großen Coup #shorts" | d27c50da-cfa6-4bfd-8a3d-12f879bfd15f | 9763c69c | 10.12. 13:15 MEZ |
