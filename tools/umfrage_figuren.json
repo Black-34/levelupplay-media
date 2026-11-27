@@ -1,0 +1,215 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 1.3,
+   "img": "assets/rockstar/shots/gta6_02_Jason_Duval_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "PICK YOUR FAVORITE",
+     80,
+     "b"
+    ],
+    [
+     "#1",
+     72,
+     "v"
+    ],
+    [
+     "JASON",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 1.3,
+   "end": 2.6,
+   "img": "assets/rockstar/shots/gta6_07_Lucia_Caminos_05.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#2",
+     72,
+     "v"
+    ],
+    [
+     "LUCIA",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 2.6,
+   "end": 3.9,
+   "img": "assets/rockstar/shots/gta6_11_Cal_Hampton_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#3",
+     72,
+     "v"
+    ],
+    [
+     "CAL",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 3.9,
+   "end": 5.2,
+   "img": "assets/rockstar/shots/gta6_13_Boobie_Ike_02.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#4",
+     72,
+     "v"
+    ],
+    [
+     "BOOBIE",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 5.2,
+   "end": 6.5,
+   "img": "assets/rockstar/shots/gta6_15_DreQuan_Priest_04.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#5",
+     72,
+     "v"
+    ],
+    [
+     "DRE'QUAN",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 6.5,
+   "end": 7.8,
+   "img": "assets/rockstar/shots/gta6_16_Real_Dimez_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#6",
+     72,
+     "v"
+    ],
+    [
+     "REAL DIMEZ",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 7.8,
+   "end": 9.1,
+   "img": "assets/rockstar/shots/gta6_17_Raul_Bautista_01.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#7",
+     72,
+     "v"
+    ],
+    [
+     "RAUL",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 9.1,
+   "end": 10.4,
+   "img": "assets/rockstar/shots/gta6_18_Brian_Heder_03.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#8",
+     72,
+     "v"
+    ],
+    [
+     "BRIAN",
+     110,
+     "w"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 10.4,
+   "end": 12.6,
+   "img": "assets/rockstar/shots/gta6_06_desktop.jpg",
+   "focus": 0.55,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     "WHO IS YOUR #1?",
+     88,
+     "w"
+    ]
+   ],
+   "y": 200
+  }
+ ],
+ "end_card": {
+  "start": 10.4,
+  "question": "Comment your number!"
+ }
+}

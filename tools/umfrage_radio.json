@@ -1,0 +1,260 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "end": 1.3,
+   "img": "assets/rockstar/shots/gta6_01_desktop.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "BEST GTA 6 RADIO?",
+     84,
+     "b"
+    ],
+    [
+     "#1",
+     72,
+     "v"
+    ],
+    [
+     "FLASH FM",
+     100,
+     "w"
+    ],
+    [
+     "Pop",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 1.3,
+   "end": 2.6,
+   "img": "assets/fotos_nutzer/biker_gang.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#2",
+     72,
+     "v"
+    ],
+    [
+     "V-ROCK",
+     100,
+     "w"
+    ],
+    [
+     "Hard Rock & Metal",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 2.6,
+   "end": 3.9,
+   "img": "assets/rockstar/shots/gta6_09_desktop.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#3",
+     72,
+     "v"
+    ],
+    [
+     "DIRTY SOUTH",
+     100,
+     "w"
+    ],
+    [
+     "Hip Hop Classics",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 3.9,
+   "end": 5.2,
+   "img": "assets/fotos_nutzer/angeln_boot.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#4",
+     72,
+     "v"
+    ],
+    [
+     "BACK COUNTRY",
+     100,
+     "w"
+    ],
+    [
+     "Country",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 5.2,
+   "end": 6.5,
+   "img": "assets/rockstar/shots/gta6_06_desktop.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#5",
+     72,
+     "v"
+    ],
+    [
+     "VICE CITY FM",
+     100,
+     "w"
+    ],
+    [
+     "Pop",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 6.5,
+   "end": 7.8,
+   "img": "assets/fotos_nutzer/stripclub_delights.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#6",
+     72,
+     "v"
+    ],
+    [
+     "WORLDWIDE FM",
+     100,
+     "w"
+    ],
+    [
+     "House, Jazz, Worldbeat",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 7.8,
+   "end": 9.1,
+   "img": "assets/fotos_nutzer/hafen_stelzenhaeuser.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "#7",
+     72,
+     "v"
+    ],
+    [
+     "COCOTEO FM",
+     100,
+     "w"
+    ],
+    [
+     "Latin & Reggaeton",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 9.1,
+   "end": 10.4,
+   "img": "assets/fotos_nutzer/stadt_nacht_sturm.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "#8",
+     72,
+     "v"
+    ],
+    [
+     "THE CHAMBER",
+     100,
+     "w"
+    ],
+    [
+     "Metal",
+     52,
+     "g"
+    ]
+   ],
+   "y": 150
+  },
+  {
+   "start": 10.4,
+   "end": 12.6,
+   "img": "assets/rockstar/shots/gta6_20_desktop.jpg",
+   "focus": 0.45,
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "lines": [
+    [
+     "ONLY ONE",
+     88,
+     "w"
+    ],
+    [
+     "CAN WIN",
+     88,
+     "b"
+    ]
+   ],
+   "y": 200
+  }
+ ],
+ "end_card": {
+  "start": 10.4,
+  "question": "Comment your number!"
+ }
+}
