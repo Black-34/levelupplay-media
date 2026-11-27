@@ -75,3 +75,4 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | Figur Raul (queue/27-figur-raul) – "Wer ist Raul Bautista in GTA 6? 💰 Er will nur den großen Coup #shorts" | d27c50da-cfa6-4bfd-8a3d-12f879bfd15f | 9763c69c | 10.12. 13:15 MEZ |
 | Figur Jason (queue/28-figur-jason) – "Wer ist Jason Duval in GTA 6? 🪖 Er will nur ein ruhiges Leben #shorts" | 238f42fb-71c2-4a14-a826-ce1b2469e360 | f5b07d97 | 11.12. 13:15 MEZ |
 | Figur Lucia (queue/29-figur-lucia) – "Wer ist Lucia Caminos in GTA 6? 🥊 Kämpfen lernte sie, bevor sie laufen konnte #shorts" | 4ffe0858-f6cc-4f40-a151-a63d062f022f | b8c946bd | 12.12. 13:15 MEZ |
+| Figur DreQuan (queue/30-figur-drequan) – "Wer ist Dre'Quan Priest in GTA 6? 🎤 Vom Dealer zum Label-Boss #shorts" | 43e15ad8-a1e9-40e0-8223-87a2b4cdaf7d | 8f1c821c | 13.12. 13:15 MEZ |
