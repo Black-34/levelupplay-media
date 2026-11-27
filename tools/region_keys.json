@@ -1,0 +1,127 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "img": "assets/fotos_nutzer/unterwasser_schildkroete.webp",
+   "focus": 0.6,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "PARADISE?",
+     110,
+     "w"
+    ],
+    [
+     "OR HIDEOUT?",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.4,
+   "end": 4.8,
+   "img": "assets/fotos_nutzer/hafen_stelzenhaeuser.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REGION 2/6",
+     60,
+     "g"
+    ],
+    [
+     "LEONIDA KEYS",
+     100,
+     "w"
+    ]
+   ]
+  },
+  {
+   "start": 4.8,
+   "end": 7.2,
+   "img": "assets/fotos_nutzer/hafen_stelzenhaeuser.webp",
+   "focus": 0.3,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "based on",
+     56,
+     "g"
+    ],
+    [
+     "FLORIDA KEYS",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.2,
+   "end": 9.6,
+   "img": "assets/fotos_nutzer/unterwasser_schildkroete.webp",
+   "focus": 0.4,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "DIVING",
+     90,
+     "w"
+    ],
+    [
+     "JET SKIS",
+     90,
+     "b"
+    ],
+    [
+     "PARTY BOATS",
+     80,
+     "w"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "img": "assets/fotos_nutzer/hafen_stelzenhaeuser.webp",
+   "focus": 0.7,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "not flashy",
+     56,
+     "g"
+    ],
+    [
+     "BUT EASY",
+     100,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.6,
+  "question": "Would you live in the Keys?"
+ }
+}

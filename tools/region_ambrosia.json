@@ -1,0 +1,127 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "img": "assets/fotos_nutzer/biker_gang.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "BIKERS RULE",
+     100,
+     "w"
+    ],
+    [
+     "THIS TOWN",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.4,
+   "end": 4.8,
+   "img": "assets/regions/ambrosia_clean.jpg",
+   "focus": 0.4,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REGION 5/6",
+     60,
+     "g"
+    ],
+    [
+     "AMBROSIA",
+     110,
+     "w"
+    ]
+   ]
+  },
+  {
+   "start": 4.8,
+   "end": 7.2,
+   "img": "assets/regions/ambrosia_clean.jpg",
+   "focus": 0.75,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "the heart of",
+     56,
+     "g"
+    ],
+    [
+     "LEONIDA",
+     104,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.2,
+   "end": 9.6,
+   "img": "assets/regions/ambrosia_clean.jpg",
+   "focus": 0.2,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "SUGAR",
+     100,
+     "w"
+    ],
+    [
+     "REFINERY",
+     96,
+     "b"
+    ],
+    [
+     "jobs for the town",
+     52,
+     "g"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "img": "assets/fotos_nutzer/biker_gang.webp",
+   "focus": 0.35,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "old-school",
+     56,
+     "g"
+    ],
+    [
+     "VALUES",
+     110,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.6,
+  "question": "Join the bikers or stay away?"
+ }
+}

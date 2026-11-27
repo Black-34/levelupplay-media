@@ -1,0 +1,127 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "img": "assets/rockstar/shots/gta6_01_desktop.jpg",
+   "focus": 0.4,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "THE NEON NEVER",
+     84,
+     "w"
+    ],
+    [
+     "SLEEPS HERE",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.4,
+   "end": 4.8,
+   "img": "assets/rockstar/shots/gta6_06_desktop.jpg",
+   "focus": 0.45,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REGION 1/6",
+     60,
+     "g"
+    ],
+    [
+     "VICE CITY",
+     110,
+     "w"
+    ]
+   ]
+  },
+  {
+   "start": 4.8,
+   "end": 7.2,
+   "img": "assets/rockstar/shots/gta6_09_desktop.jpg",
+   "focus": 0.55,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "based on",
+     56,
+     "g"
+    ],
+    [
+     "MIAMI",
+     110,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.2,
+   "end": 9.6,
+   "img": "assets/rockstar/shots/gta6_01_desktop.jpg",
+   "focus": 0.6,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "HIGH-RISES",
+     84,
+     "w"
+    ],
+    [
+     "ROOFTOP BARS",
+     84,
+     "b"
+    ],
+    [
+     "& NIGHTCLUBS",
+     70,
+     "w"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "img": "assets/rockstar/shots/gta6_06_desktop.jpg",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "sun & fun capital",
+     56,
+     "g"
+    ],
+    [
+     "OF AMERICA",
+     96,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.6,
+  "question": "Day or night in Vice City?"
+ }
+}

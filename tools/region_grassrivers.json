@@ -1,0 +1,122 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "img": "assets/fotos_nutzer/sumpf_grassrivers_verfolgung.webp",
+   "focus": 0.35,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "GATORS ARE",
+     96,
+     "w"
+    ],
+    [
+     "NOT THE WORST",
+     86,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.4,
+   "end": 4.8,
+   "img": "assets/fotos_nutzer/sumpf_grassrivers_verfolgung.webp",
+   "focus": 0.6,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REGION 3/6",
+     60,
+     "g"
+    ],
+    [
+     "GRASSRIVERS",
+     104,
+     "w"
+    ]
+   ]
+  },
+  {
+   "start": 4.8,
+   "end": 7.2,
+   "img": "assets/fotos_nutzer/sumpf_grassrivers_verfolgung.webp",
+   "focus": 0.75,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "based on the",
+     56,
+     "g"
+    ],
+    [
+     "EVERGLADES",
+     100,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.2,
+   "end": 9.6,
+   "img": "assets/fotos_nutzer/sumpf_grassrivers_verfolgung.webp",
+   "focus": 0.2,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "AIRBOATS",
+     96,
+     "w"
+    ],
+    [
+     "MANGROVES",
+     90,
+     "b"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "img": "assets/fotos_nutzer/sumpf_grassrivers_verfolgung.webp",
+   "focus": 0.5,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "deadlier predators",
+     56,
+     "g"
+    ],
+    [
+     "& WEIRD FINDS",
+     90,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.6,
+  "question": "Airboat or chopper?"
+ }
+}

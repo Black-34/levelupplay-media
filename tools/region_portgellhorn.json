@@ -1,0 +1,122 @@
+{
+ "scenes": [
+  {
+   "start": 0,
+   "end": 2.4,
+   "img": "assets/regions/port_gellhorn_clean.jpg",
+   "focus": 0.25,
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "lines": [
+    [
+     "HOLD ONTO",
+     100,
+     "w"
+    ],
+    [
+     "YOUR WALLET",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 2.4,
+   "end": 4.8,
+   "img": "assets/regions/port_gellhorn_clean.jpg",
+   "focus": 0.55,
+   "zoom": [
+    1.12,
+    1.0
+   ],
+   "lines": [
+    [
+     "REGION 4/6",
+     60,
+     "g"
+    ],
+    [
+     "PORT GELLHORN",
+     96,
+     "w"
+    ]
+   ]
+  },
+  {
+   "start": 4.8,
+   "end": 7.2,
+   "img": "assets/regions/port_gellhorn_clean.jpg",
+   "focus": 0.8,
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "lines": [
+    [
+     "a failed",
+     56,
+     "g"
+    ],
+    [
+     "RESORT TOWN",
+     96,
+     "b"
+    ]
+   ],
+   "y": 1300
+  },
+  {
+   "start": 7.2,
+   "end": 9.6,
+   "img": "assets/regions/port_gellhorn_clean.jpg",
+   "focus": 0.4,
+   "zoom": [
+    1.1,
+    1.0
+   ],
+   "lines": [
+    [
+     "CHEAP MOTELS",
+     88,
+     "w"
+    ],
+    [
+     "DEAD MALLS",
+     88,
+     "b"
+    ]
+   ],
+   "y": 1250
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "img": "assets/regions/port_gellhorn_clean.jpg",
+   "focus": 0.6,
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "lines": [
+    [
+     "grab a",
+     56,
+     "g"
+    ],
+    [
+     "DIRT BIKE",
+     100,
+     "b"
+    ]
+   ],
+   "y": 880
+  }
+ ],
+ "end_card": {
+  "start": 9.6,
+  "question": "Would you visit Port Gellhorn?"
+ }
+}
