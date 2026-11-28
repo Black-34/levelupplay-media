@@ -84,3 +84,8 @@ YouTube (23.11. online): Bigfoot v2 https://www.youtube.com/watch?v=X-lBHAI9oXw 
 | Clip Bagger (queue/40-clip-bagger) – YouTube + TikTok – "Road Rage in GTA 6 – Bagger wirft Auto in den Fluss 😂🚜 #shorts" | 88de9304-2efe-4775-866a-fcc816150347 | 30cf8f5d-83bba3b1 | 28.11. 18:00 MEZ |
 | Clip bestes Auto Kap. 2 (queue/41-clip-bestesauto) – YouTube + TikTok – "Bestes Auto für Kapitel 2 in GTA 6 🔥 Ohne jemanden zu töten #shorts" | dde15cd1-d26e-410a-b74e-356bb5f1c4bb | 562bda29-fbedc37a | 28.11. 20:00 MEZ |
 | Figur Real Dimez (queue/32-figur-realdimez) – "Wer sind die Real Dimez in GTA 6? 💎 Einen Hit vom Ruhm entfernt #shorts" | ffe62754-f8a1-4fc9-9826-0ef213e1bc8c | 9cc0ea4d | 15.12. 13:15 MEZ |
+
+# 28.11. – vom Nutzer freigegeben und veröffentlicht
+- Bagger: YouTube https://www.youtube.com/watch?v=XW7c0qxCo8c (öffentlich ab 28.11. 18:00 MEZ), TikTok geplant 18:00 MEZ
+- Bestes Auto Kap. 2: YouTube https://www.youtube.com/watch?v=rZ2rTykcQo8 (öffentlich ab 28.11. 20:00 MEZ), TikTok geplant 20:00 MEZ
+- Figur Brian: YouTube https://www.youtube.com/watch?v=EYT_OzWBJXw (öffentlich ab 14.12. 13:15 MEZ)
